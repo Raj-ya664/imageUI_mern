@@ -1,0 +1,12 @@
+# Ignore node modules in any subfolder
+**/node_modules/
+
+# Common ignores
+npm-debug.log
+.DS_Store
+.env
+dist/
+build/
+
+# OS files
+Thumbs.db
